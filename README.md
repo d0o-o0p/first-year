@@ -1,2 +1,1 @@
-# first-year
-# not so good
+# first-year project, utilizing Java
